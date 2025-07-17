@@ -73,9 +73,9 @@ a:hover {
 .gridder-list:nth-child(n){margin-bottom:1%;margin-right:1%}
 .gridder-list:nth-of-type(2n){margin-right:0;margin-bottom:0}
 .gridder-navigation .gridder-nav.disabled{opacity:.5}
-.gridder-list:nth-child(3n) {
+/* .gridder-list:nth-child(3n) {
 	margin-right: 0 !important;
-}
+} */
 
 .gridder-list,
 .gridder-list-link{cursor:pointer}
@@ -95,7 +95,7 @@ a:hover {
 .hasSelectedItem .gridder-list,
 .hasSelectedItem .gridder-list-link{opacity:.5}
 
-.hasSelectedItem .gridder-list.selectedItem,
+/* .hasSelectedItem .gridder-list.selectedItem,
 .hasSelectedItem .gridder-list-link.selectedItem{opacity:1}@media screen and (min-width: 700px){
 	.gridder-list,
 	.gridder-list-link{width:32.6666666667%}
@@ -103,7 +103,7 @@ a:hover {
 	.gridder-list-link:nth-child(n){margin-bottom:1%;margin-right:1%}
 	.gridder-list:nth-of-type(6n),
 	.gridder-list-link:nth-of-type(6n){margin-right:0;margin-bottom:0}
-}
+} */
 
 * {
 	padding: 0;
